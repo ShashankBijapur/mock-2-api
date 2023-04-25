@@ -1,0 +1,78 @@
+{
+    "cars": [
+      {
+        "brand": "Tata",
+        "type": "Manual",
+        "year": "2018",
+        "kilometer": "2414",
+        "description": "khedj,nn, whknwjiw hihe",
+        "price": "12344",
+        "id": 1
+      },
+      {
+        "brand": "Suzuki",
+        "type": "Automated",
+        "year": "2019",
+        "kilometer": "3343",
+        "description": "khedj,nn, whknwjiw hihe",
+        "price": "45552",
+        "id": 2
+      },
+      {
+        "brand": "Hyundai",
+        "type": "Manual",
+        "year": "2020",
+        "kilometer": "2552",
+        "description": "khedj,nn, whknwjiw hihe",
+        "price": "1234",
+        "id": 3
+      },
+      {
+        "brand": "Toyota",
+        "type": "Manual",
+        "year": "2021",
+        "kilometer": "25425",
+        "description": "khedj,nn, whknwjiw hihe",
+        "price": "54625",
+        "id": 4
+      },
+      {
+        "brand": "Suzuki",
+        "type": "Automated",
+        "year": "2020",
+        "kilometer": "34214",
+        "description": "khedj,nn, whknwjiw hihe",
+        "price": "234314",
+        "id": 5
+      }
+    ],
+    "wishlisted_cars": [
+      {
+        "brand": "Tata",
+        "type": "Manual",
+        "year": "2018",
+        "kilometer": "2414",
+        "description": "khedj,nn, whknwjiw hihe",
+        "price": "12344",
+        "id": 1
+      },
+      {
+        "brand": "Suzuki",
+        "type": "Automated",
+        "year": "2020",
+        "kilometer": "34214",
+        "description": "khedj,nn, whknwjiw hihe",
+        "price": "234314",
+        "id": 5
+      },
+      {
+        "brand": "Hyundai",
+        "type": "Manual",
+        "year": "2020",
+        "kilometer": "2552",
+        "description": "khedj,nn, whknwjiw hihe",
+        "price": "1234",
+        "id": 3
+      }
+    ]
+  }
